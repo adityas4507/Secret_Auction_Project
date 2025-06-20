@@ -34,22 +34,7 @@ This is a beginner-friendly Python console application that simulates a **secret
 
 ## 💡 Sample Run:
 
-1. What is your name?: Alice
-2. What is your bid?: $150
-3. Are there any other bidders? Type 'yes' or 'no':
-4. yes
-
-5. [screen clears]
-
-6. What is your name?: Bob
-7. What is your bid?: $200
-8. Are there any other bidders? Type 'yes' or 'no':
-9. no
-
-10. The winner (highest bidder) is Bob with a bid of $200
-11. The lowest bidder is Alice with a bid of $150
-12. Goodbye!
-
+![image](https://github.com/user-attachments/assets/efc46a50-0d60-42a8-a996-d5d60465367f)
 
 ## 🧰 Concepts Used:
 
